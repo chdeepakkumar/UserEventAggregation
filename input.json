@@ -1,0 +1,10 @@
+{"userId": 1, "eventType": "post", "timestamp": 1672444800}
+{"userId": 1, "eventType": "likeReceived", "timestamp": 1672444801}
+{"userId": 1, "eventType": "likeReceived", "timestamp": 1672444802}
+{"userId": 1, "eventType": "post", "timestamp": 1672531200}
+{"userId": 2, "eventType": "comment", "timestamp": 1672531201}
+{"userId": 2, "eventType": "post", "timestamp": 1672531202}
+{"userId": 4, "eventType": "post", "timestamp": 1672661201}
+{"userId": 4, "eventType": "likeReceived", "timestamp": 1672661202}
+{"userId": 3, "eventType": "likeReceived", "timestamp": 1672581201}
+{"userId": 3, "eventType": "comment", "timestamp": 1672581202}
